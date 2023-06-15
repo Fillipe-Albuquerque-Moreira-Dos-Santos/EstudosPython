@@ -1,2 +1,2 @@
-# EstudosPython
+# Estudos Python
 
